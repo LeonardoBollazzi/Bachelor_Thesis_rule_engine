@@ -1,0 +1,36 @@
+<Sachbearbeiter><Funktion>: <Sachbearbeiter><Vorname> <Sachbearbeiter><Name>
+Email: t.frei@beispiel-<Kopf><Mandant>.com
+ 
+#Start Rule 1: Anrede == Herr / Ort == Zürich / 
+<Empf><Anrede> <Empf><Vorname> <Empf><Name> Musterstrasse 17 <Empf><PLZ> <Empf><Ort>
+#End Rule 1: 
+ 
+Fahrweid, 27. Mai 2023
+ 
+#Start Rule 2: Anrede == Herr / Ort == Zürich / 
+Sehr geehrter <Empf><Anrede> <Empf><Name>
+#End Rule 2: 
+ 
+Nachfolgend sehene Sie ein Auszug aus Ihrem Portfolio (Stand 27. Mai 2023):
+ 
+Preis pro Aktie
+ 
+#Start Loop 1: <Aktie> / ['Name', 'Anzahl', 'PreisShare']
+<Aktie><Name> CHF <Aktie><PreisShare> <Aktie><Anzahl>
+#End Loop 1: 
+ 
+Bei Fragen oder Unklarheiten stehen wir Ihnen gerne zur Verfügung
+ 
+Vielen Dank für Ihr Vertrauen in unser Unternehmen.
+ 
+Freundiche Grüsse
+ 
+#Start Rule 4: Mandant == kwsoft / Funktion == Finanzberater / 
+<Sachbearbeiter><Vorname> <Sachbearbeiter><Name>
+<Sachbearbeiter><Funktion> bei <Kopf><Mandant>
+#End Rule 4: 
+ 
+<Kopf><Mandant> | Niederholzstrasse 17 | 8951 Fahrweid
+ 
+Seite 1 von 2
+ 

@@ -1,0 +1,37 @@
+<Dokument>
+	<Kopf>
+		<Datum>04-27-2022</Datum>
+		<System>SAP</System>
+		<Umgebung>Prod</Umgebung>
+		<Mandant>Solunex</Mandant>
+	</Kopf>
+	<Empf>
+		<Anrede>Herr</Anrede>
+		<Name>Beispiel</Name>
+		<Vorname>Peter</Vorname>
+		<Zusatz>Wohnung 4a</Zusatz>
+		<Postfach></Postfach>
+		<Strasse_Nr>Beispielstrasse 17</Strasse_Nr>
+		<PLZ>8001</PLZ>
+		<Ort>Zürich</Ort>
+		<EMail>beispiel@auchtest.ch</EMail>
+	</Empf>
+	<Sachbearbeiter>
+		<Name>Fernandez</Name>
+		<Vorname>Maria</Vorname>
+		<Funktion>Kundenberaterin</Funktion>
+		<E-Mail>m.fernandez@beispiel-kwsoft.com</E-Mail>
+	</Sachbearbeiter>
+	<Schreiben>
+		<VIP>false</VIP>
+		<Kundennummer>XS2022/01</Kundennummer>
+		<Besuch>04-13-2022</Besuch>
+		<Versicherungsprodukt>
+			<Id>8899</Id>
+			<Name>Rechtsschutzversicherung</Name>
+			<Kosten>145.00</Kosten>
+			<ZahlungsIntervall>jährlich</ZahlungsIntervall>
+			<GueltigAb>05-01-2022</GueltigAb>
+		</Versicherungsprodukt>
+	</Schreiben>
+</Dokument>

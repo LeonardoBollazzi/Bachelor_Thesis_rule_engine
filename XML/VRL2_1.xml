@@ -1,0 +1,65 @@
+<Dokument>
+	<Kopf>
+		<Datum>05-27-2023</Datum>
+		<System>SAP</System>
+		<Umgebung>Prod</Umgebung>
+		<Mandant>kwsoft</Mandant>
+	</Kopf>
+	<Empf>
+		<Anrede>Herr</Anrede>
+		<Name>Iglesias</Name>
+		<Vorname>Miguel</Vorname>
+		<Zusatz></Zusatz>
+		<Postfach></Postfach>
+		<Strasse_Nr>Musterstrasse 17</Strasse_Nr>
+		<PLZ>8048</PLZ>
+		<Ort>Zürich</Ort>
+		<EMail>miguel@test.ch</EMail>
+	</Empf>
+	<Sachbearbeiter>
+		<Name>Frei</Name>
+		<Vorname>Thomas</Vorname>
+		<Funktion>Finanzberater</Funktion>
+		<E-Mail>t.frei@beispiel-kwsoft.com</E-Mail>
+	</Sachbearbeiter>
+	<Portfolio>
+		<!-- D e p o t -->
+		<Aktien>
+			<Aktie>
+				<Name>LUFTHANSA AG VNA O.N.</Name>
+				<PreisShare>12.85</PreisShare>
+				<Anzahl>20</Anzahl>
+			</Aktie>
+			<Aktie>
+				<Name>DEUTSCHE BANK AG NA O.N.</Name>
+				<PreisShare>57.79</PreisShare>
+				<Anzahl>25</Anzahl>
+			</Aktie>
+			<Aktie>
+				<Name>ALLIANZ SE VNA O.N.</Name>
+				<PreisShare>93.38</PreisShare>
+				<Anzahl>15</Anzahl>
+			</Aktie>
+			<Aktie>
+				<Name>SAP AG O.N.</Name>
+				<PreisShare>35.86</PreisShare>
+				<Anzahl>30</Anzahl>
+			</Aktie>
+			<Aktie>
+				<Name>DRESDNER BANK AG NA O.N.</Name>
+				<PreisShare>51.5</PreisShare>
+				<Anzahl>15</Anzahl>
+			</Aktie>
+			<Aktie>
+				<Name>DAIMLER AG NA O.N.</Name>
+				<PreisShare>36.12</PreisShare>
+				<Anzahl>20</Anzahl>
+			</Aktie>
+			<Aktie>
+				<Name>SIEMENS</Name>
+				<PreisShare>93.87</PreisShare>
+				<Anzahl>15</Anzahl>
+			</Aktie>
+		</Aktien>
+	</Portfolio>
+</Dokument>

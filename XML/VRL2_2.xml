@@ -1,0 +1,141 @@
+<Dokument>
+	<Kopf>
+		<Datum>04-27-2022</Datum>
+		<System>SAP</System>
+		<Umgebung>Prod</Umgebung>
+		<Mandant>Solunex</Mandant>
+	</Kopf>
+	<Empf>
+		<Anrede>Herr</Anrede>
+		<Name>Beispiel</Name>
+		<Vorname>Peter</Vorname>
+		<Zusatz>Wohnung 4a</Zusatz>
+		<Postfach></Postfach>
+		<Strasse_Nr>Beispielstrasse 17</Strasse_Nr>
+		<PLZ>8001</PLZ>
+		<Ort>Zürich</Ort>
+		<EMail>beispiel@auchtest.ch</EMail>
+	</Empf>
+	<Sachbearbeiter>
+		<Name>Fernandez</Name>
+		<Vorname>Maria</Vorname>
+		<Funktion>Finanzberaterin</Funktion>
+		<E-Mail>m.fernandez@beispiel-kwsoft.com</E-Mail>
+	</Sachbearbeiter>
+	<Portfolio>
+		<!-- D e p o t -->
+		<Aktien>
+		    <Aktie>
+		        <Name>ALPHABET INC.</Name>
+		        <PreisShare>1800.50</PreisShare>
+		        <Anzahl>20</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>AMAZON.COM INC.</Name>
+		        <PreisShare>3300.25</PreisShare>
+		        <Anzahl>15</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>AMERICAN AIRLINES GROUP INC.</Name>
+		        <PreisShare>25.75</PreisShare>
+		        <Anzahl>50</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>AT&amp;T INC.</Name>
+		        <PreisShare>28.75</PreisShare>
+		        <Anzahl>90</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>BOEING COMPANY</Name>
+		        <PreisShare>250.20</PreisShare>
+		        <Anzahl>30</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>COCA-COLA COMPANY</Name>
+		        <PreisShare>55.25</PreisShare>
+		        <Anzahl>75</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>FACEBOOK, INC.</Name>
+		        <PreisShare>330.70</PreisShare>
+		        <Anzahl>20</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>GENERAL ELECTRIC COMPANY</Name>
+		        <PreisShare>12.50</PreisShare>
+		        <Anzahl>100</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>IBM CORPORATION</Name>
+		        <PreisShare>120.75</PreisShare>
+		        <Anzahl>65</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>JOHNSON &amp; JOHNSON</Name>
+		        <PreisShare>160.75</PreisShare>
+		        <Anzahl>40</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>MCDONALD'S CORPORATION</Name>
+		        <PreisShare>250.00</PreisShare>
+		        <Anzahl>55</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>NETFLIX, INC.</Name>
+		        <PreisShare>550.80</PreisShare>
+		        <Anzahl>15</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>NETFLIX, INC.</Name>
+		        <PreisShare>500.80</PreisShare>
+		        <Anzahl>25</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>NIKE, INC.</Name>
+		        <PreisShare>160.25</PreisShare>
+		        <Anzahl>35</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>NVIDIA CORPORATION</Name>
+		        <PreisShare>400.75</PreisShare>
+		        <Anzahl>30</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>PEPSICO, INC.</Name>
+		        <PreisShare>155.50</PreisShare>
+		        <Anzahl>60</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		         <Name>PFIZER INC.</Name>
+		        <PreisShare>40.50</PreisShare>
+		        <Anzahl>80</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>PROCTER &amp; GAMBLE COMPANY</Name>
+		        <PreisShare>130.90</PreisShare>
+		        <Anzahl>35</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>TESLA, INC.</Name>
+		        <PreisShare>950.00</PreisShare>
+		        <Anzahl>8</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>UBER TECHNOLOGIES, INC.</Name>
+		        <PreisShare>60.50</PreisShare>
+		        <Anzahl>50</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>VISA INC.</Name>
+		        <PreisShare>220.80</PreisShare>
+		        <Anzahl>25</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>WALT DISNEY COMPANY</Name>
+		        <PreisShare>180.10</PreisShare>
+		        <Anzahl>40</Anzahl>
+		    </Aktie>
+		</Aktien>      
+
+	</Portfolio>
+</Dokument>

@@ -1,0 +1,37 @@
+<Dokument>
+	<Kopf>
+		<Datum>02-22-2021</Datum>
+		<System>SAP</System>
+		<Umgebung>Prod</Umgebung>
+		<Mandant>kwsoft</Mandant>
+	</Kopf>
+	<Empf>
+		<Anrede>Frau</Anrede>
+		<Name>Test</Name>
+		<Vorname>Daniela</Vorname>
+		<Zusatz></Zusatz>
+		<Postfach>Postfach</Postfach>
+		<Strasse_Nr></Strasse_Nr>
+		<PLZ>3001</PLZ>
+		<Ort>Bern</Ort>
+		<EMail>test@kunde-test.ch</EMail>
+	</Empf>
+	<Sachbearbeiter>
+		<Name>Müller</Name>
+		<Vorname>Stefan</Vorname>
+		<Funktion>Kundenberater</Funktion>
+		<E-Mail>s.mueller@beispiel-kwsoft.com</E-Mail>
+	</Sachbearbeiter>
+	<Schreiben>
+		<VIP>true</VIP>
+		<Kundennummer>DF2012/47</Kundennummer>
+		<Besuch>02-01-2021</Besuch>
+		<Versicherungsprodukt>
+			<Id>8495</Id>
+			<Name>Krankenversicherung</Name>
+			<Kosten>375.00</Kosten>
+			<ZahlungsIntervall>monatlich</ZahlungsIntervall>
+			<GueltigAb>01-01-2022</GueltigAb>
+		</Versicherungsprodukt>
+	</Schreiben>
+</Dokument>

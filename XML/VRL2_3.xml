@@ -1,0 +1,66 @@
+<Dokument>
+	<Kopf>
+		<Datum>02-22-2021</Datum>
+		<System>SAP</System>
+		<Umgebung>Prod</Umgebung>
+		<Mandant>kwsoft</Mandant>
+	</Kopf>
+	<Empf>
+		<Anrede>Frau</Anrede>
+		<Name>Test</Name>
+		<Vorname>Daniela</Vorname>
+		<Zusatz></Zusatz>
+		<Postfach>Postfach</Postfach>
+		<Strasse_Nr></Strasse_Nr>
+		<PLZ>3001</PLZ>
+		<Ort>Bern</Ort>
+		<EMail>test@kunde-test.ch</EMail>
+	</Empf>
+	<Sachbearbeiter>
+		<Name>Müller</Name>
+		<Vorname>Stefan</Vorname>
+		<Funktion>Finanzberater</Funktion>
+		<E-Mail>s.mueller@beispiel-kwsoft.com</E-Mail>
+	</Sachbearbeiter>
+	<Portfolio>
+		<!-- D e p o t -->
+		<Aktien>
+		    <Aktie>
+		        <Name>APPLE INC.</Name>
+		        <PreisShare>150.25</PreisShare>
+		        <Anzahl>10</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>MICROSOFT CORPORATION</Name>
+		        <PreisShare>250.50</PreisShare>
+		        <Anzahl>15</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>AMAZON.COM INC.</Name>
+		        <PreisShare>3500.75</PreisShare>
+		        <Anzahl>5</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>TESLA, INC.</Name>
+		        <PreisShare>900.00</PreisShare>
+		        <Anzahl>8</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>GOOGLE LLC</Name>
+		        <PreisShare>2200.10</PreisShare>
+		        <Anzahl>12</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>FACEBOOK, INC.</Name>
+		        <PreisShare>350.50</PreisShare>
+		        <Anzahl>20</Anzahl>
+		    </Aktie>
+		    <Aktie>
+		        <Name>JOHNSON &amp; JOHNSON</Name>
+		        <PreisShare>160.75</PreisShare>
+		        <Anzahl>18</Anzahl>
+		    </Aktie>
+		</Aktien>
+
+	</Portfolio>
+</Dokument>

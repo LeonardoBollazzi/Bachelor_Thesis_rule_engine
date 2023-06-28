@@ -1,0 +1,37 @@
+<Dokument>
+	<Kopf>
+		<Datum>05-27-2023</Datum>
+		<System>SAP</System>
+		<Umgebung>Prod</Umgebung>
+		<Mandant>kwsoft</Mandant>
+	</Kopf>
+	<Empf>
+		<Anrede>Herr</Anrede>
+		<Name>Iglesias</Name>
+		<Vorname>Miguel</Vorname>
+		<Zusatz></Zusatz>
+		<Postfach></Postfach>
+		<Strasse_Nr>Musterstrasse 17</Strasse_Nr>
+		<PLZ>8048</PLZ>
+		<Ort>Zürich</Ort>
+		<EMail>miguel@test.ch</EMail>
+	</Empf>
+	<Sachbearbeiter>
+		<Name>Frei</Name>
+		<Vorname>Thomas</Vorname>
+		<Funktion>Kundenberater</Funktion>
+		<E-Mail>t.frei@beispiel-kwsoft.com</E-Mail>
+	</Sachbearbeiter>
+	<Schreiben>
+		<VIP>true</VIP>
+		<Kundennummer>PT2021/89</Kundennummer>
+		<Besuch>05-12-2023</Besuch>
+		<Versicherungsprodukt>
+			<Id>1548</Id>
+			<Name>Unfallverischerung</Name>
+			<Kosten>120.00</Kosten>
+			<ZahlungsIntervall>monatlich</ZahlungsIntervall>
+			<GueltigAb>06-01-2023</GueltigAb>
+		</Versicherungsprodukt>
+	</Schreiben>
+</Dokument>
